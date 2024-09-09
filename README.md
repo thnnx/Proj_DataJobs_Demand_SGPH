@@ -13,7 +13,8 @@ Data Analysis of Data Jobs ( Data Analyst, Data Scientist, Data Engineer, Busine
 
 ## Questions to Answer
 1. What are the most demanded skills for the top 5 most popular data roles?
-2. How are in-demand skills trending for Data Analysts?
-3. What is the most optimal skill to learn for Data Analysts? (High Demand AND High Paying)
+    - EDA_Data_Jobs_SGPH.ipynb
+3. How are in-demand skills trending for Data Analysts?
+4. What is the most optimal skill to learn for Data Analysts? (High Demand AND High Paying)
 
 Note: This project will be focusing mostly in Singapore / Philippines Data Analyst roles only.
