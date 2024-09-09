@@ -12,9 +12,13 @@ Data Analysis of Data Jobs ( Data Analyst, Data Scientist, Data Engineer, Busine
 - Share this project in your portfolio via GitHub or LinkedIn.
 
 ## Questions to Answer
+0. Exploratory Data Analysis
+    - [EDA_Data_Jobs_SGPH](EDA_Data_Jobs_SGPH.ipynb)
 1. What are the most demanded skills for the top 5 most popular data roles?
-    - EDA_Data_Jobs_SGPH.ipynb
-3. How are in-demand skills trending for Data Analysts?
-4. What is the most optimal skill to learn for Data Analysts? (High Demand AND High Paying)
+    - [EDA_Data_Jobs_SGPH](EDA_Data_Jobs_SGPH.ipynb)
+2. How are in-demand skills trending for Data Analysts?
+    - [Skills_Trend_SGPH](Skills_Trend_SGPH.ipynb)
+3. What is the most optimal skill to learn for Data Analysts? (High Demand AND High Paying)
+    - [Optimal_Skills](Optimal_Skills.ipynb)
 
 Note: This project will be focusing mostly in Singapore / Philippines Data Analyst roles only.
